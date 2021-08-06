@@ -1,0 +1,2433 @@
+{
+	"AssetInfoVersion": 1,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "3676434BDC62FFC0F194E7846C01EA9919113508",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CE21B809E59889F66B6C39810C16E6D2FD37E319",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "925C0CC2C8424631A2DA6FECA250D0FFCC2C0D85",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3AE248A6F05AA5BB9DDF24C32A2BFFC45368F79",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E2C58873EE5237CF535FE59E114BCAB3435AC135",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8B55463DC6EBA46E7658781E872CD1A10795C143",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "27E36195FF2A8E5C7EFA35B1A3664D37FBA9F873",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset",
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "931F231FB74937674709FE04BDE3FC7716568737",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8360B2E05E6638EAA2E6836157E4086C378527DA",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2A4BE9B1E447C0CC116AB74C5A912C9B2633BF8A",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1882B8A86961777F9222264C52EBE9583D56600D",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4212E1855B4A0C933DE28474B88E21135631201D",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5EB0E9214B12D20C714F8FAC77380E20870BC318",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4FFAF38520D73293207E565918C6B57F7F8E13C9",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AA183A99EA3140216EA834319D300E20373F5E93",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3609E644F6C533B8F9A24D27AB2285E2D39571D",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E63575823B1855A5BC7AB84D061AC356FBBDAFC1",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "27D4F827A19CAA0A888D888857CDDC3BC8720D5C",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BAE22A1ABB1CBB248257C342C906E5D3F2723A2D",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D23C75799DEF0E787A73E61A3035F2635A865E7A",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "32D281FF7B9F2B531B6A63F9B56F1FAE852490FB",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F00F2F9A3CD07DA7457B6B987ED11B739EA06895",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E9F51EE54132DCE7BFFBA8FE653EF3CE494B7150",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AB2C31709D966AFC311EA77E8CF43C110BEBDFC9",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A62102EDF7922A29CF3165F3274B8B16B91B7432",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EAE9DA31087D494255A0610F70EF6D831D19D10E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6CDD0D67BE2F0A1AEAFF29AA516B67EADD0D23CB",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9D722CA47EEA195E2ECCDB9AE1C393D334E460A3",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7A5E8F202B8EC49330571FE4E974F4C1DC111699",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "56B1B26291F2A93036D693A99C17271296B6D747",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5E54F8731E4DB06305E2C922AD4FA917B06EF3DF",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AD3B1EE8E520055A0DFECE9D37E93134BDCCB50E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0042AAEE9D5EF1F678BC41F998BFA45A32FB002E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "052826F9417262545AE9470F132F0345CDFAAD45",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5D5CE78AF765895B0E693106AA943D2E2F24E78A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
+			"Assets": [
+				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "63E869411CE98508563166F96DCFEB34D8A4A6FC",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/ClothAwningStriped03_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/ClothAwning03_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/CityFolk_Yellow_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/FoodCrate_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/ClothAwning_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/MarketRug_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/ClothAwning02_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/Pot_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7EE310C55B5F69898718DB8E0580CEC407350A6B",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/WashingStation_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/Dumpster_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/Dvd_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/HsDiploma_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/Hookah_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/LockerDoor_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/Locker_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/SeafaringGround_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/Crown_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "84E77B16DB6849A87F7F4730D1BD9FAFFE41D989",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "040BB8DCB003F495FD9AD7E67786CBEADDF172C5",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5955D31DA1D64305C4B656F257539CF680F15414",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/Mannequin/Character/Materials/M_Male_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "29D5E5A9772118A7A5A75131FCB983C30171715F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7A49726590FB14FEBC69D0AAE121480CE70D3966",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/ThirdPerson/Meshes/RampMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6D54895B9E1281698413E9BC3833382FE29DC21",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/Geometry/Meshes/CubeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "970764AA63DCE76F0F71D01B2C4A4F8C7803DF70",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9D072CEB90ACE1E03714F2A2BBFE16A76CEAE01C",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B9D4A13B9CE3552A35825569AC23B9084B3077AC",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "94CB72591BFB1AA0F8993301571CBEC81649DBD4",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4442ECD6AF786883A2D80448E4265B33E8AD9323",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D0B077EFD5B2AEAE662EBCA6D98D4D99245F1A66",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "114D1F72B756BFD8919F9D877527F4D6EE46AFB9",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5E252B10E291544575D400D35751B0A0848885FC",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A5623A7246D9C37E244D4F1BF9DAA428D5E010D1",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "94EB8C42486608465E948598270DF54AC28B49A8",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "17B2758286D829FF6589C4CD01F8701D618225E8",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DFBC3ECA43EA2DACAD9CE4A535A90896A66ABCDF",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9732BB67E7B01B76E3A36DEC3FB06B83D5A1B032",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "99409896C3E6DBCF4A554C37365C25B380AB4994",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "894C7354ACE316054282CECB3D7CAA3188137158",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "01C8C1CB329D586C1591D113A5786B084D31BA32",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "72013F85FC5045433FA0BA0AA1D58B5988AAC479",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "84AE8662EB7A05DAF1062FB06388163A632706CA",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "81BBF38C47BCCBB08F85C024513C7A72D27D603A",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8783C3F34079967805E0FC7756662EE44E9F2ABD",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C92742D609EAB70F01775F714942A6C29D653CCB",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4C2BD69FDA51A8977763FC8E2CFBB7D6E2056076",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FB2D21D70E35E4BEE0A80F9ABD2AA162C2725DC8",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2CB2505DC37386508890CD8B7AA8259D32DB51DE",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EAB0B97F3D6BF314148942617569E6D069DB41B6",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0FE92F7A80E331B9101AF184E6B800D00D3EB9DB",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Props/Materials/M_Statue.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7F83AC4F630484DCDBBCEA3D75F9227A2C34B742",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "05CA42638EE90D304218AEB1B7B87783A9160FCC",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Props/Materials/M_Chair.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2BBD5E57E1782D1F2887171B320BCF984EFA55A0",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "00D65A8AC680436C92F1335346B2CB71546895B0",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "716511C7F2553049BE686CC038AC13A042496EEB",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "03BFE8C92D3E44B603EAF5E33C4BF599277B94F1",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "61BBF9C3CCF2DEED2C22A351ECDFF8698F93F8C0",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7180AE66DD610231FB0F10CDE6E2989111599E2A",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B1FF22F5E1FAD19015D89ABEE71BB2A53ABE0F22",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6EE3A5B64FD21DC25A8CC2FBC93F00486A9A291",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A26EB19066B55C757555A93C8FC22987E3D4E3E9",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FD2325E266AE8FA725B570B13BA1ADA3CF25BCDD",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1F50C05C09A2E83257010B93662F36A1D7586D7B",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Props/Materials/M_Frame.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B377F2C466685D8337499DEB2ADC1465F3B5A0F1",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5BB37DAD771291E33FAE924B1A7598B6CD5D0580",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5EBD21CA1F39FA1FA02DEF349FEDA14BF73B3CE5",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A117C7B87E28982B2B7748403CF78CB2A469DB47",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CA043011157D3F0E5F3B4FCE1F0A4C84C560655E",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5ABD78BA44D1E298C35E2A3BF1F8F3EACB327EE2",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "44ED270A4214EA2432ECBB32DA9FB374AC10D1F6",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4509EE43CC23F1709AEA93F311A873BBE0109CB6",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4879F215DA09F64BFFA6FC802CA362C9C9BC3DF6",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Water_Lake.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DD0DB34222B3D5F9997B7B7FB6C9CFB8E4FF516F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E40FBC0160D2B45CB2B96AA25F2A6F0A533CB413",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9764E3011D5F4472F5095EEA14B3DA6D6067BD44",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "808E590D94508EA9DFA8A4995C7170374E274A6A",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D701E00C4341906CE59DF4C43A465BC00DA71ACB",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AC6FC85D8C66AE35DE3F1483E30BE5D69DA3689A",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1DE966990D4D65C7C726AC140C2DDC484A356696",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C9C8E782F3F46C917FBB4556885514C762EE6E02",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D51FD1443DC4C48B724346ACB960C6A4A4BB8CB7",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "36515B0B4C9FB11E4AE29663ED31A36A35EE30D2",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2C689D8EB30EE8AB7E0C31A1DC5F660B7EA63011",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ECF211909B951137D59C1A4B4AC46570D95B1FC7",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F149164436465E20E7F626109FB5766FA03745F2",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B1792DD387C7D34880F6DCA4465C5BEDF6D36971",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FCAC9CD95037A5AD3304161E9E9FFB366B34A74F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F72368351ABC8C43C3B0B8459EAACBAC199FCBD2",
+			"Assets": [
+				"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A8E593D530597CB87355800679A19D3E8FFBB9B8",
+			"Assets": [
+				"../../../Engine/Content/TemplateResources/M_Template_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D0A5BD060D872B75828943511D69D48BF71E0001",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BC284EE8C793349B8654BD175C1C54EBFB2E35E5",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Props/Materials/M_Rock.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "70368F7B49ECE232067D5BD15961AA3CC786F482",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F77242BBCAA16CAF0ABDEC597BEE76FD973EF259",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6E599DC21F2566D0BD88F79500302F569700EB5A",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Props/Materials/M_Door.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BDE733D4C48705524848E0FC78DA95D2A7F58691",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Props/Materials/M_Bush.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C896AACBBDA69174F0D49DC8A600CB4F90C5A5EC",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FB5E11B28283545CCAFA183A2E746550620D50FF",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D944EEA2302ACCECDA96F730945B315BAC1AC457",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3FDC7ABCAEFA1A17FEE243376805BCDDC2FA1409",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/Materials/Metal/WM_MetalBasic_a_mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/Materials/Wood/WM_WoodRough_b_Cherry_mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/Materials/Wood/WM_WoodPlanksWhite_c_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/Materials/Metal/WM_MetalFloorPaintRough_a.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/Materials/Plastic/WM_Plastic_Gray_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/Materials/Metal/WM_MetalBasicLight_a_mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/Materials/Metal/WM_MetalBasicDark_a_mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/Materials/Ceramic/WM_CeramicTile_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "89DE549F6257C23D4F6D330E307212425FAD1119",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/CanneryFloor_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A50916BE15FAF6E803ACDBFECF40C1CFA99B4862",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/CanneryWindowPane_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "72FE7278FD85CD9464977A6D7135A13A1699A6A5",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/CanneryTrim_b_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/CanneryTrimRed_b_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "79FC5410E4FFB0BD68C030F7DC9A228490C4F9FC",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2D0138A2F124B413FE234FB5FA607EDCF610AD01",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11_Rem.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_V_Grip.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Tc4_Sight.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Suppressor5.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/KA74U/M_KA74U_Gold.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_Weapon_Master_USE.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9D4E9859D0B75E10383185E1425E13FBFDAE5BC1",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/RDS/M_RDS_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "28D80D595F6DF03D9523D59C2CFDA8D636BC1895",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Scope_25x56_Lens_NoAlpha.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "49144D67C0D3AF133F2C549771BC99E8CECA6D70",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/BlackLight_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AF62AAEFE618A74EF5010DD48CEB4BF55137667D",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/Soldier_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/ThroneroomBanners_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/PalaceUrn_b_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CD21EC501F8AE33E5512CA9706438749E8E26F79",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/Materials/SolidColor/BlackGloss_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "54B0E43EFA7E92A30C305FC19CC3A00F84D49EEA",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/Torch_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "69EDECCFF7506780C5EC5EE4195632FAB063BBB0",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/Materials/Glass/WM_GlassClean_a.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EBA8D2C7E957A8D817E29D49021FC1A969B064FF",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Shared/Surprise/Environments/Materials/WM_LaqueredWhiteWood_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Shared/Garage/Kayak/KayakRed_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/FishBalloonBlue_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A11DDB5CA8D6242DB35B8DDED7E23705758BA4F6",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Shared/TheresaRoom/HospitalBed/HospitalBed_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5C18B63B06A7ED98E4F37E54A77F61CE0CA7F876",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/Guillotine_a_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/ThroneroomLantern_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FC40AB71896BEE1655305F2935608658AA6A47E1",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/PottedPlantLeaves_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E2B7DDE9AEC3D8559611DBA13195EBA63C672222",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/Materials/SolidColor/BlackUnlit_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/Materials/SolidColor/BlueDarkUnlit_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0934935377C5170A30957A0547B1A5EBF108E65B",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/PortFloor_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "269996F465A8DF298B2FFC65AD0BE76E16AEDFAC",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/CanneryConveyorBelt_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "447D2F57B4F49397208AEEC566558B1D0F9E4953",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/Player/Ch33_hair.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2CAFFEE9FFE336010692E8FA7C6A5EAB01C3EEA4",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/sucai/M_lilMap.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B36B76B6E9DF402BDD476A3983430ACDD35C6E64",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/Player/Ch33_body.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/Monster/Ch36_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4A8865C5E911FBAC27FAF960E655D747BE6F543D",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C2C06F909C9CEB90BF1E910E5B2C814247E8D788",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master_DepthFade.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7829A54BA043A504F5BC728C875E5561DA388BA1",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/sucai/M_Bullet.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "898772AD8673A29328AA9F6EA96D35F3E5F99B67",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/Ammo_box/lambert2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "12BCB2FC3B905BE790A8C9978F217574DA58FB64",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_Props_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DA83C589C608E6713A79ABD3980708ABF9A42CFF",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_Opaque_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BE7F017AF6BAD1C4E10F62C2B2F73F967593E558",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/metal_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FE7C50D942FDAF635C095412D3FAC4157173E1CC",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/Master_Props_Imagination_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1C6F7FDD86AC4660EB852BCB76BC50C721A4522B",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveTexturedMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DC9F2EF458FE3A17EAEEAA8840110C55554AD329",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_WorldMaterial_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1F02B8104352B7D38C7BF3540D03B2CB048FB05A",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_Opaque_DiffuseOnly.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D4D6F6CDEB3187DF904D7302136708DED50B498E",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/MASTER_BaseColor_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "044C23220D538117AE97D1DB74419F0DED8B1BC4",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_VertHeightLerp_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A805A4757EFDBB4853EBCBFF4D72353008A92058",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Maps/LevelContent/Architecture/M_CycRoom_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FF566B240CFD11CB5E27CE439D47A42AEDDBAB6F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Maps/LevelContent/Architecture/M_1Meter_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7EC75CECC83CCC7B7ED53C9513E25D9C17E65CDD",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Maps/LevelContent/Architecture/M_CycWall_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0D6974DD1E5D484A6691DA3CE009EE889712D209",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "21150C7C551BEE4B839DC20116C3FD8F0CC4BC81",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Sprite_01_5x5_SubUV.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_subUV_2.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lightning_Radial_add_subuv_4x4.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lightning_Bolt_01.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LightCone.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CombatArea_Solid.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CombatArea_Edge.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CombatArea_Base.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_subUV.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_RingsubUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "163896AB388D923022D526F3CC288D5C8993DB9F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Lit_SubUV_Master.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceBlastBase.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AF5F3A22717AF25F7CF7104C513C53578A4CA939",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_Glass_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E89836AB69C5FC2A2F77A972DE1DAAB66C33DF95",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/MASTER_EmissiveColor_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5CD6D8C3FF06A97CC3BA18AA43DD12AE17BDFD57",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master_DepthFade.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DD884D11A6999547FFE0132E3E4FAAECFDE569F9",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_DepthFade.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "83A855917EE6994A62D01A8A58B42D6045CB4B7D",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Opaque_Axes_Spin.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "526517E551507BF88018DE00A31F1C928215EAF2",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Trans_MeshEmit_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7E5B43CEED05FC467E4FA2157F801EC8E08A1315",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Trans_TilePan_2sided_meshEmit_02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B0DA3BA23A23DAFA2D810C0733898DF10654CA3E",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LevelRing_00.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9BA64DB4E9159C9D1F0B9492E936AB00C04731FD",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EDFCF026FF4A3CE678A2797B7E1EBDBC1C85E440",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceShard.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C062314036B72ADD48596D544B40A6B429BC9337",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceBlastFog.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2C760CBC1A7FC2523F07F3BEEF609DE50EEE4959",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Emis_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0EF45CB8E4F0894F2BE115D0EC8883AF4B28C784",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master_Surface.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master_Surface2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B81E6B401C7E7A7C66933DE328566410BAEDF528",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceChunksBase.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CBD877B1E8E2158CBF7E8176F1E4A776FDAA293A",
+			"Assets": [
+				"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BB3F37BBC538BB52C7E9CF0895FDE36DE1E88882",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_2Sided_Master.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GhostSkull.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "788F51BC9781F5941FB5E22A93CDEBE839BCA177",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_JaggedRockIce_MeshEmit_Blue.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9D1810EFD6B42BB230BC1D63BABAC21DBE702432",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceSword.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_RoboChains_MeshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E2D1153F19052BAA3A51881BF37F5C8DD7A09AD8",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceBlastIcicles_Fade.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5CBD90F53F350AFDC71D9B2B90516051FE117BE3",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_Surface.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "641725EB9EB38B73B1A0C2DDE1068361E88D04A4",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_JaggedRockFire_MeshEmit_Lit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "30DC951AF30B328DECC7BCAD9825893115D4DBEC",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Lit_Emis_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1B9C1E58592982976533C74CAAF4485058FDDF50",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Trail_2Sided_Pan_Base_Emis_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "573D3FF9BDC4C4936B7520A0D5EBA0891C62FEC5",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceBlastIcicles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3250171FA8CCBC9F814B359053B1B69D496F487D",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Debris_Boxes_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "92F69A737EFE6D7C331F10704BA93AD7D8B73AD9",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Debris_Boxes_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6F4C9B7E166CAE925F52B24DEA3286A5357A87E3",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_AuraCircle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6A86DE2B460EECAE9D057E6AEDC0D6F84B5CB9AF",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Dungeon_Pipe_FlowingLava_Cool.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AF3A7DFF9823CF5EB16C8A31865B4E0F06F63E9D",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Targeting_Enemy.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EE8B6CF2404B935B8C01EE3861C98B09BE654DD7",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Environments/Misc/Env_ALL_Artifacts/Materials/M_Env_Health_Terminus.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "88B96F5F2D5B67FE2282E8F7CEF67551388AB770",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_RDS_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B798D44A810A06AD371089723B6AD3B2B0434D73",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_Props_Emmisive_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "987F96A9136B68F645B17E2E01EFDAE4FAD69D53",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/RDS/M_RDS_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "712C9E53094354B18C18D0FCC69158DC5697572F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_Scope_Lens_MASTER.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1A76D451F17FA28EBD9A1196473A311AAEB6F317",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_Props_Masked_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C81A789F583300A39121D4401EE305E9A781A801",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/queen_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A5549327064C1D9B03CC07213AE509590538D134",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/fishDragon_body_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B4A6792935202DAA6925C0AC5CBCD5FA5F323E45",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_BookVariety_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6DC882CC392D7841937299E2F4862921E67232E4",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_Opaque_Diffuse.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "45FA733FE3B6D180DF7D995EC0FB4FC6A5985BAE",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_Foliage_SS_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B9707D5677535B8496CEB5BD2AC3950C0F1E230E",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_Card_Modulate_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "287B7FABFA841A77B5C0BD5E39B6B314FCBC48B0",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/Palace_Sky_Mat.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlueSky.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlueSky_Moving.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireSky.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C0B1747421DF4389736BF4F2C757905FE6BECF08",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_Props_SubSurface_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C53C80F199300962E8456ACB0B51A75FB8E672F1",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/ship_blue_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C3BAE99B38EA779338037C61ADB91CEE2569A548",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/galleon_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "75B934894921E48CFA6A203057BEE9D4CAB1258F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/exitSign_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "26D0375C59CD342FF9CCBF9A78740D7D986B464C",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/glass_a_foggy_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5F58850DD4AD037003898C5648DEA881B66A5A94",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/CanneryWaterfall_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AC683FEB627B7418FB83CA10E982947375436864",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Environments/Ice/Env_Ice_Mountain/Materials/M_IceMountain_Boulder.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4A42DA03527D109E11B8E04DAD39C97A3AE32EEC",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Environments/Plains/Env_Plains_Ruins/Materials/M_PLains_FloorStone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "26A71C5B956E91E9B93D540F8A0D70F9C90666B9",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Environments/Fire/Env_Fire_Magma/Materials/M_Lava_flows_trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EB3191F5CE26C3E271B84926121FAAED91380426",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_Props_Panner_Masked_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9184BA15F662A9010B1AB97A3E1FE4FE3EF3E3D1",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Environments/Env_Rocks/Materials/M_JaggedRock_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F1E81F7C9EACC608902B8865BC981CA0A6E0E9C0",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Fort_Wall_Destroyed.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Fort_Wall_Destroyed_Trim.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8AEE6D638A223F788B92DC413FA902C8C4CD7329",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/CanneryWater_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "02A1DF68CA02E46010995276C17BB1ABA874C965",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Pots_Red.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "66FDA91A61195B9BFC01BF9B58A0205EC37E75A8",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Enemy/Enemy_Chicken/Materials/M_EnemyChicken.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7EB9733C5EB5A9C73137EB40402D4852C400B6CE",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/OLD/Effects/FX_Materials/ICE/M_IceMountain_Boulder_MeshEmit.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceMountain_Boulder_MeshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0C5F52FD0310CA667B67D3C1AD43BCB6F0E68D45",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/OLD/Effects/FX_Materials/Gradient/M_Add_Unlit_TerminGlow.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_01_2sided_MeshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8A6E249DC18AC6F66329EECC0CB123BE878ECB5E",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Enemy/Enemy_Chicken/Materials/M_Survival_CA_Chicken_02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5B25B1A2923E6CADD40E0B9F4DE7CC5FB58E825F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Trail_2Sided_Pan_Tile_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BB5D537EBB8D341EE6847FAC8911298994504EA5",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Trans_StaticMesh_Lit_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D570492075404F7077A7D1DD429A3527E808818D",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master_Surface.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B427BBCDD2C73D227972CD6653279342E39BFF4F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_2Sided_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5F5689F26AFA54A3C85CCF7F191D0E8739589E67",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Trans_MeshEmit_2Sided_Pan_Mask_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EF88F98624AC8822B81F2D6F6ABE7985BB2819CB",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_Static_Lit_Emis_PanMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0DAEADABDAD03D4044083F3903DA21A277BF787A",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master_DepthFade.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0A629C01DE6A3AEEC83A1B5F01E78B68E726D908",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Pan_Emis_Mask_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B32DF2C368658081B5AE91DF5A0BF0AC4F4A5F41",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Add_Mesh_2Sided_Pan_Emis_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "69E85756E1F8FC4D0A4805C08FDEF790881F31A8",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/Masters/M_Add_Mesh_2Sided_Pan_Base_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "427688E1B402D1A48C48D6475AB7D7ECD0229052",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Env/M_Treasure_Gold_Add_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6F2C44BD467C04C95596A20E0970382A94A7AA9",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/M_GoldBag.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9883DC8DEC070E1FB626FB82874DBB3ABEF6C6B6",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Noise/M_Noise_Beam_01_INST.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_Resurrection_Phoenix_INST.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "128141E3AEAB1DAD5F9D83BD6CA1581184C20CA6",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Noise/M_AuraCircle_02_INST.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "01C2FEE6FB81818D9E97A3DEF1F4963E8BB942EF",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Noise_Beam_01_IN_2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F85999E1350EACAB33E34E822FE4CAE9953AAC0F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11_Color.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B0F1711F2D46F1B95CA68278D5E814426854A65C",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11_Camo.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val_Black_Striped.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val_Black_Camo.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/KA74U/M_KA74U_LeafSpray.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/Ka47/M_KA47_Pattern.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/FPS_Weapon_Bundle/Weapons/Materials/AR4/M_AR4_Pattern.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4368D06CB4C50DB259F5228354A0EBC91309B59C",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/ThroneroomStainedGlass_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E52B7FBEBA1FE467D474D2E753A47887588D33B7",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/PalaceUrn_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "31B21D60B44F48B395071EB4CEE0BB6BA12AF2F2",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/CityGround_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3BFBCAA9745D71C35BA1C6244CAC77934BC65D5",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/Materials/Cloth/WM_Rope_c.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0EEB413215C79BD1449CE2A427160F19F0010624",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/CanneryWorker_Accessories_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C91BD2ACEAFF111E10788CD5AD41E6BE4B317A41",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Opaque_Hammer_Spin.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A87C5563E7D25265A0E7344B777B0AC833EB7E43",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_AuraCircle_add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8D3DF50CB336C8C89F7EC7E8A6879CAAF3446E20",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/collision_translucentWorldGrid.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E7A9A39EF618ECF180BF6FB6D8EB10F327D47028",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Splat_03_INST.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_02.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_01.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ForgeFail_X.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Mod_02_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_03.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_Emissive_02.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IB_Blood_Trans_subUV_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Mod_03_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Mod_01_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "65F64B6FCFE0870F3DA69777966284AE6F0E84A7",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Add_Unlit_TerminGlow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A08E93F1F6B062B72893485A0B67259EB131F8BC",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_Radial_01_Trans.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowVert_Trans.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceSkills_Base.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_subUV_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_subUV_3_4_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke2_Trans_subUV_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRock_Trans_MeshEmit_Lit.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SnowSubUV_2_3.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_subUV_4_8_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeSingle_Trans_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke3_Trans_subUV_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SnowSubUV_2_3_MeshEmit.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeWispy_Gradient_Pan.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C358E4DD4BC5EC46B193AC1CA36633F379C0753A",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_01.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_RadialRings_02.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_03_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FlashHalf_Add_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Glyph_Add_Outer_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Shield_Rim_Add.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SparkCore_Add_01_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_Radial_01.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_RadialRings_03.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_RadialRings_01.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Glyph_Add_Inner_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_04_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CandleFlame.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Spark_Add_01_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_04_Inst.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Spark_2_2_01.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceHammerGlow.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_02_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_01_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9BA57A24400C22938673D6EAD5AF69F95A7445B7",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_JaggedRockIce_MeshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D83C9EA154AC7107841489D4305CF2B6721975A6",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_Tile_Grey_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D75EAB91F4A212BE92E1B93DBD01138A0CADC30F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Telecharge_char_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "27F5CDA904EC51EA7DFB932DF832966B63849474",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D55C51E7F03D3BA35115D5227ABFD191389F990A",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_Master_MeshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7F02D2FC60C688CF91EC6C45DF8D7044FDB4CB79",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Ribbon_Pan_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "92528E8BF99E86D5ECFB201D12F73CE7EB367281",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A356033E6F766BBE0B29199F13392769047DAA30",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX/M_FogPlane03_add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "73CB4B4582B710096C152B1083AA6FCA1EE5DC5B",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Trail_Lightning_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B2EDB6C33074EA9FE3FA2F8218AD8AAD8D6B5717",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceTrap_Shard.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "45A050453DDAA9E87E96F1E8ECFBE110E5BB4BF1",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Attack_Side_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8D51FC2C19183B04DFB58CDD154D7A50C16CC61B",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireSky_moving.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0243913A40B0F4811FDE5765695737B2F06767A5",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8C994F72FBC8A2074B667F13F8C21F3531C9308F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ShieldMesh_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DD31C7B8E1A2D49F6B93F3D8CC114C21A71CA956",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX/M_FogPlane03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3C77F309682803E1AC72258BCA955507DC38448A",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BladeSwipe04.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "300DBD1969DB6AB2FFD304D75D9BE8AEA04040FD",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_Props_SwingVert_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1F2986C29CE4B431B23C23013E058C456887F5CC",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/SwimmingFish_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6CFC746BBDA20C3A03B27BAFA8A66152DEC6D03B",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX/M_FogPlane02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1483A68F2DBB87BA9D1E3AB110B4E7598E0B14A0",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_Collision_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9D0675E368F2C5F08A4239EE34B5173DDF120554",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Mesh03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "564469A553B9B63C57DC104A8B29300065A490EE",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ChargeMesh_mobile1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E9C72624F6B14E20EE7B20C92A62E43C1E81D3DA",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Misc/M_DeathPlane_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FA7245EB199B8B7D9A9F9104718BE1452FD94B61",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeSingle_Add.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Impact_SubUV.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowVert_Add.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Add_2_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Addit_subUV_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Add_subUV_mult.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke3_Add_subUV_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F7B20326737F0BF7A54165A8112EC6E25160AC02",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Sword_Opaque_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FA32B6AC8DF2040798B30606786E95F247AAD59C",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Trails/M_IB_SwipeTrail.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D08C3D940FDCBE6087F8D828A051EAF99F631DF1",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Flares.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Flash_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "578CB01493EE96BC478C85ACADC178975D49C65D",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans_MeshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "20FA93A863AA034CBA09ECEB4826E837EF180072",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_2_Trans.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Masked_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FBE89B92586EADC7C1C8B52341AC21E657A814C3",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Enemy/M_Ausar_ShieldBlast_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "671C227695C9AF351B02E056156CB0274EB4ABB1",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_FogSheet_Add_Ice_T3.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_FogSheet_Fire_03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E91DEF162C5A9F287A76FD3767CA031B3471BE61",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_cracks_01_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundFire_Trans.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundPoison_Trans.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HeartHeal_Trans.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGround_Trans.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundIce_Trans.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ExploD_Trans_subUV_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "57B6073E5633256FC2A1C09ADC510D90A57B7685",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Mobile/ICE/M_Tornado_Ice_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0323571A9AA72A28F3FD2FB62DBC0D8D21C28131",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Attack_Top.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Attack_Side.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DD3E6ACC62117F13B91C9B9A7DAB22FD5866391A",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_03_2sided.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SlashDir_Add_01_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_01_2sided.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ForgeLogo.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_01_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DD6DA3352D04041FB15281CE7D7A2427446F59E6",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Shard_Tiled_D.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8EC48719B82F6613B6628A922F9AADCB15F8CC83",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Unlit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2581963C33FA0B8D8B5B8FBE8D9D7444B1405B0D",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRockFire_MeshEmit_Master.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRock_MeshEmit_Lit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8DA2E8E15EC0CE97CA630339D784A216A0F37FE9",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Shard_Tiled_Mesh_Unlit_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D3FD3BDC8DF8A375E236179371D98E64A9C6D53F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_2sided_MeshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0B8C6DA02C44EA86840603E7A658CA4DB5D16251",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGround_Fire_Unlit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E39A6212CB6CC890BFC2BF6E1AFB4FED8C9C768C",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LavaFlows_Fast_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9E2669E360FBB68078838FC2C51C29444E13223D",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ReflectArrow_Grad.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BA0FA0669A0DFC8EEF848959CCD1A69D3666C838",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Add_Unlit_EndGate.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7DBB6D451E6C0DFF856FCF75370782E3ADD776A4",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F17BF7B3E96210191EBFD9C61E42AE4BFF1C6C6F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EC4389F89315C40411052E5FA35152D2CCE05F1D",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HealBeam_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D021B5D6F0F98861EC38E6A1A98606219A0D9D94",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Skill_Vortex_Fire_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "552D20CDAD89B2C921D5C3585A677463ECC48E15",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ForgeCoals_Fire.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D1AC3EBA258C2D78218213AB177B5CF239F9D6A7",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceSkills_Base_Lit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0E068A2AFC6507B9A4E20294A94977768B8CF0EE",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGround_Fire_Lit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A34BDF8FD67D910D4799B36A7BC4F2A218F602C1",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_DetailMask_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5F7913E1362084055DA92CF1B0CFAFB12389BA0C",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans_03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "583807A36E04CE3EB98BC86DF9231D6F672EA703",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_Unlit_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AE701E0ECD4CA5E0530F06F51904644209323045",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/Palace_Wall_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "21F1DCFBFAD8CBCFD6A789F98A11BC37A71DAC43",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Enemy/M_Enemy_GreaterSpiderBoss_FX_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "78F6C5854BC0EF6ECCFF4B2BA66BBA50E531B1D5",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_Pan_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D35419B4BC375F2C637DBEF5806E8F37A01273EA",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Sky_Flashing_Panning_Master.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Sky_Flashing_Panning.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F932562EB4AC81D0223B1C91B0CA9AD0C5CE3509",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LeachBeam_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C8A80A67F2BBF0054E3D54A63EAC679198FB874F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Portal_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2D4F312E19CE31DBDAC5EC875537CA1D7E7E5A49",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LightSconces_Glow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F0168560E83032F9725AE4A0F2F752F16C993D4E",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_2sided_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E14F81D293C29C4E3A0791B2F07EE35A909086F0",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX/M_Embers.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C2B5E0F0C01B8C632F7E34F718A6A21003CABE14",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Water_fountain_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6CA1C789618BBEBECBA7A9303DA5A31360F18E5D",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5AD0760579E85604935915CE7638E57B3E8BC12C",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans_02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F1467EE7E363D05B2CE258AE27613A872FFFD7C4",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Add_Trail_MeshEmit_2Sided_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7BD8B715F0877003BB642A94671D3F310DA5CF46",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_FogSheet_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "51F035C7F8D5A1A52696ED4C003314BF253103B2",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_Tile_2Sided.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_DetailMask_meshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2FA2744B4C9D94C816CBE3E19EF3AB40BDECB398",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SwipeTrail_EdgeFade.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6B358C2ACA7600062066685A94F9B00C243F64E",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastDir_Add_01_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7C840EDD08966E260741F317A8D19833B038C3C3",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fog_Orng_mobile.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fog_Green_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "93767B6924100079DD2BE7B6651AA7DC9CCF1B46",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LavaFlows_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "70A73C0923A98187D406A58C8E3F1013BE4D1950",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlobShadow_01.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FogSheet_Trans.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Water_Bucket_Cin04.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5C65A07DC1D5D4909D3F6985A494B295CF6C98CB",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SwipeTrail_Add_2Sided_Emissive_MESH.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "77F4E0F80041BD11A44DAD840E77E8C9B5AFF2F8",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Projectile_2Side_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "43DA97814C708ACBD72B3A6FC2F01CC8C883EDE1",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Flares_Grid.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C600686D441380CA20B0CE9811B428E28DC3B33B",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lightning_Arc_Add_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9BDDBFA9F00458383FFF91EE9151CB506A0EE8A3",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireSword_Add_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "08C2E7D125129365F4A111A9E2C89D7EFA20649C",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SpikeTrap_Fire.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B353F9478E80A8ADA71C81C5925482CE94CEA758",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundFire.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "51DAF98456687FAC92D91853EA7E20F778F73364",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Plate_Floor_2_Ice.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ED6CD002488314D350049064C1D7955A2E2F89D3",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HeartHeal_02_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BF1B269C40BB9E684B54E19AC3C78666E3C69E1B",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CandleGlow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "617BF05E98EA23BB25E2940522BB68DA7755DA8F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Projectile_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E43CAF24901CF95FC0A263762C68D7B4C25F71D0",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LeafFlip_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FEBE955C02135A680BB80EA51A52250668C5C908",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_Translucent_Unlit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A95E79FA9BF628FA9E205CE13B3C2FB3DB80B984",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_YinYang_Circle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "133FD14CF991473F34C8099D0E4E12A809D0ACFF",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided_meshEmit.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided_Blue.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7D913D4E7C7F0DCBF497E6617134C442C77C12F1",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_TraceTrail_Fire.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DE78C2AB8D98C7B04C1C5462D10F0DE45F2138C7",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_FlickerGlow_Forge.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "970129B1F3CE3A8F53145CDC2A9F75E638B9605C",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Ice_Trans_UT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AF18BD0F544B307F7F0B650F84FEEBD716B0AC38",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0AE2E0CE2B04F2D4EAED38ECFAECCDF541E3A8C9",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B966EE461E52900AD1937394EEAB31582F7A85CA",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBeam_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0389CAD32BB562A2A67F1858DDEAB4BCE6DD4674",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Spider_Anim.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5AB0E59A60267557A35B2FE8FF65B78E0DD3031C",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided_meshEmit_01.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "768F55C61663C7CC83FCD41B6157668E14450134",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CandleGlow_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1BFB6D28E96F7C0A44E3B25A54893E4653CC60E1",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lava_Flowing.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E7C0772DFF13D48C05B19D96CE763637AFF7DF47",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Glowing_Eyes.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "86F7EE018D9B2628C29B02FBC792266BA0B5EC42",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Snow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1A8BD2B3E49DE2BA22C06A7E1D0E7FC4B3CC4DF2",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans_MeshMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9ED09DE5FD5168CE31DE236AA51208CAD497849B",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Common/MasterMaterial/Master_BaseColorTexture_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5D68DC3E8F6B1ED24CFE515B0C259CA6975EF39B",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX/M_BloomPlane.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0F6DA9086ED3560E14B3785A8568B8CA9A5FC262",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Portal_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "221B230D449295634580FF69D6FD1D9B89916F6C",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeWispy_Pan.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5C35E457707F871104F79D92F4CE885950FDF6FE",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LavaFlows_Trans_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CB85033434C54AC7F9213937F443178416992E67",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_2side_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FD8128C12EAEAEDA3FAF612CD97A91297AAB4905",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRockFireBase_MeshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3C13D924C1622CBAEE1B3D6869F36B8960AF671C",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_Tile_Grey_2Sided_meshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CE61B15801920D87147F5C0DCAEA63939209B25F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_FireBall.uasset",
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_FireBall_MeshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A00BDC676BA9F22C57E0E49D238D49F606EE38EF",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C9A408DCB868A9DAFDB1F0989AB6034E8FB23C6F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Heal_Add_2Sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "82BBB0D9270864DA0264A6242246BCC68E8F2F5A",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/SeafaringWater_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "12A336E416D33150CA380149B8A712FAA5DD73EB",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/Glass_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C969470DCDB6FF206E4E7DC51DE78EDAAE246DC2",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/conveyer_belt_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "64F8C227C1BB5992071493DDC9F02D012D3636E0",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fog_Blue_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "00A203E1DF6301967198753281E5D10966228D17",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeTile_Trail_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E93E796179CCFCF4AE6D9F8973A28E5C8BDA67D3",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Bats_Trans_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7D443A8D54F234CB3A9ED388D834513E088674CE",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HealSpiral_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5024E4F911E4987A36F32D2F6C859982419D8724",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GroundCrack_SubUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BA261D839E3321C10CAA8FC12D9C2249780B9247",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FlowingLava_HOT_red_Cool.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "341D9FFD05B727E2CD2D14523BC7B244C58ED3CA",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit_2Sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B78A77572A5AFB5B2138C550270127465EF5C161",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Impact_IB_SubUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AEEE07F630D82F9CA9319031B8ABB57E109AA3E8",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D77A577A29D84FABC525DEA95E3834044C59A64F",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireWall_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "97CADCB009A1A1075CC508C847C9AB154AA91949",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_VertexAnim_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C70DCDC98607237D08A5BAE612309DA844DA229C",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_2sided_meshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AE2B8C59EEEE73812D3FA5A4DD5379896C5AABCB",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/InfinityBladeEffects/Effects/FX/M_FogPlane01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "29D8AEB48C6DC4CF97A2B9DF17233FA3C0A51F31",
+			"Assets": [
+				"../../../../../MAYAYA/project/UNREAL/Unreal_HW_01_Scene/Unreal_HW_01_Scene/Content/EF_Lewis/Materials/brazier_unlit_Mat.uasset"
+			]
+		}
+	]
+}
